@@ -1,0 +1,1 @@
+{"routers":{"metrics":{"name":"metrics","version":"2025-07-01T09:51:33","disableAuth":false},"insights":{"name":"insights","version":"2025-07-01T11:14:24","disableAuth":false},"ingest":{"name":"ingest","version":"2025-07-01T08:01:12","disableAuth":true}}}
